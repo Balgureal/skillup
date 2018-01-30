@@ -1,0 +1,22 @@
+h4 {
+	color: red;
+	margin: 16px 0px;
+	border: 1px solid black;
+	padding: 16px 4px;
+	width: 130px;
+	text-align: center;
+	background-color: #9c27b017;
+	border-radius: 6px;
+	font-size: 20px;
+	font-weight: normal;
+}
+label {
+	margin: 10px 0 0 0	;
+	display: block;
+
+}
+	
+.form-group input {
+	background-color: grey;
+	color: #fff;
+}

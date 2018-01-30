@@ -1,0 +1,76 @@
+.logotip{
+	display: block;
+	margin: 20px 27px 0 43px;
+	padding: 0 0 25px 0;
+	text-align: left;
+}
+#log{
+	width:57px;
+	margin: -12px;
+}
+#logo_font{
+    margin: 0 0 0 25px;
+    font-size: 25px;
+}
+.interfeis {
+	margin: -57px 25px 0 0;
+}
+.menu{
+    margin: 0 10px 0 10px;
+    font-size: 24px;
+    }
+ .search{
+    padding: 0 0 0 0;
+    margin: 19px 12px 0 232px;
+ }
+ #search_boxsearch_box{
+    width: 10px;
+ }
+  .user{
+    margin: 20px 400px 0 0;
+    padding: 0 0 0 0; 
+    text-align: center;
+ }
+ .instauser{
+     margin: -50px 0 0 150px;;
+     padding: 6px 0 0 19px;; 
+     font-size: 20px;
+    
+ }
+ .ava{
+    width: 40px;
+    height: 40px;
+ }
+
+ .time{
+     margin: -5px 0 0 615px;
+     padding: 4px 0 0 4px;
+     font-size: 12px;
+     color: grey;
+     text-align: left;
+  
+ }
+ .sobitie{
+    margin: 10px 45px 0 0;
+    padding: 0 0 0 0;
+ }
+ .picture{
+     width: 400px;
+     height: 250px;
+ }
+ .like_position{
+     margin: 0 350px 0 0;
+ }
+ .like{
+     width: 38px;
+ }
+ .pointer{
+     margin: -40px 0 0 90px;
+     font-size: 30px;
+ }
+ .comment{
+    margin: 0 0 0 570px;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+ }
